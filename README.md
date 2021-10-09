@@ -1,6 +1,6 @@
 Hi, I’m Patrick, a mechanical engineering student.
 - My studies are currently exploring the applications of generative modelling to in multi-phase fluid flows of immiscible liquids for application in membraneless redox flow batteries.
-- I’m currently learning to use TensorFlow & scikit-learn, along with OpenFOAM and Docker.
+- I’m currently learning to use scikit-learn, along with OpenFOAM and Docker.
 - Interested in robotics, sustainability and addititive manufacturing
 - I’m looking to collaborate on machine-learning projects applied in an engineering context.
 
